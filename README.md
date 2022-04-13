@@ -19,8 +19,13 @@ The dataset distribution over classes is shown in the figure below:
 ![image](https://user-images.githubusercontent.com/89004966/163081325-b879dafc-8737-4405-b56f-e61051641c47.png)
 
 
-## The Loss 
+### The Loss and Accuracy curves for CNN Model are shown below:
+
 ![image](https://user-images.githubusercontent.com/89004966/163081474-22a218e0-80b1-4dad-a4c0-0c6bb8652c3e.png)
+
+### The Loss and Accuracy curves for CNN Model are shown below:
+
+![image](https://user-images.githubusercontent.com/89004966/163081707-02613987-aea2-4d2e-b006-05c54d19674d.png)
 
 
 The second pipeline is a one-stage detector using YOLO such that YOLO network performs both object detection and class classification in one stage without a need to external classifier. The methodology used in this part is as shown in the figure below:
