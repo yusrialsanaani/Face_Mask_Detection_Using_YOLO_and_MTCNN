@@ -1,7 +1,11 @@
 # Face_Mask_Detection_Using_YOLO_and_MTCNN
 
 
-Masks play a crucial role in protecting the health of individuals against respiratory diseases. So, a face mask detection system can be implemented to automate the detection and notify the individuals, hence protecting their health. The goal of this project is to use deep learning (DL), which has shown excellent results in many real-life applications, to ensure accurate facemask detection pipeline. Two face mask detection pipelines have been implemented in this project. 
+Masks play a crucial role in protecting the health of individuals against respiratory diseases. So, a face mask detection system can be implemented to automate the detection and notify the individuals, hence protecting their health. 
+
+The goal of this project is to use deep learning (DL), which has shown excellent results in many real-life applications, to ensure accurate facemask detection pipeline. 
+
+Two face mask detection pipelines have been implemented in this project. 
 
 # Face Mask Detection Pipeline Using MTCNN and CNN Classifier
 
