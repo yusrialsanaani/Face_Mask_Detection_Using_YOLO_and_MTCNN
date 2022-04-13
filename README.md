@@ -79,8 +79,6 @@ The dataset distribution over classes is shown in the figure below:
 ![image](https://user-images.githubusercontent.com/89004966/163083636-5ffa8228-cb07-465d-97c0-97b43366c979.png)
 
 
-![image](https://user-images.githubusercontent.com/89004966/163081325-b879dafc-8737-4405-b56f-e61051641c47.png)
-
 ## YOLO Training, validation, and Evaluation
 
 ### The Loss curves for YOLO Model are shown below:
