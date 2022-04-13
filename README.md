@@ -1,4 +1,4 @@
-# Face_Mask_Detection_Using_YOLO_and_MTCNN
+# Face Mask Detection Using YOLO and MTCNN
 
 
 Masks play a crucial role in protecting the health of individuals against respiratory diseases. So, a face mask detection system can be implemented to automate the detection and notify the individuals, hence protecting their health. 
