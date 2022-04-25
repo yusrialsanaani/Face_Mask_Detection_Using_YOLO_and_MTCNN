@@ -5,7 +5,9 @@ Masks play a crucial role in protecting the health of individuals against respir
 
 The goal of this project is to use deep learning (DL), which has shown excellent results in many real-life applications, to ensure accurate facemask detection pipeline. 
 
-Two face mask detection pipelines have been implemented in this project. 
+Two face mask detection pipelines have been implemented in this project:
+ - Face Mask Detection Pipeline Using MTCNN and CNN Classifier
+ - Face Mask Detection Using YOLOv5
 
 # Face Mask Detection Pipeline Using MTCNN and CNN Classifier
 
